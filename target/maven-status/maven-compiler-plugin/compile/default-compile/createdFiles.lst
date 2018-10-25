@@ -1,0 +1,6 @@
+aws_lambda\aws_lamda\App.class
+model\CognitoModel.class
+model\DatasetRecords.class
+aws_lambda\aws_lamda\AwsLambdaDynamoDbOnCognito.class
+model\SampleKey2.class
+model\SampleKey1.class
